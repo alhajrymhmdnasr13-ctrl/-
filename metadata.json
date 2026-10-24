@@ -1,0 +1,8 @@
+{
+  "name": "الذوق الرفيع لمقاسات الخياطة",
+  "description": "نظام رقمي ذكي ومتطور لقياسات الخياطة الرجالية والنسائية، يدعم كشف الهيكل العظمي بالذكاء الاصطناعي، المعايرة الدقيقة، رسم بياني لتطور المقاسات، وحفظ وإدارة مقاسات الزبائن وتصديرها.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
